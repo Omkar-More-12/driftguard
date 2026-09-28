@@ -47,7 +47,6 @@ driftguard/
 │       ├── periodic_dl_model.py
 │       └── drift_hybrid_model.py
 ├── dashboard/app.py          # Streamlit dashboard
-├── notebooks/exploration.ipynb
 ├── tests/test_models.py
 └── results/                  # accuracy_log.csv + rolling_accuracy.png
 ```
